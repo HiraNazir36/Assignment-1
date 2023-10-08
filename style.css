@@ -1,0 +1,370 @@
+html, body, div{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    line-height: 1;
+    color: black;
+    background: white;
+    min-width: 1600px;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.75rem; /* 12px / 16px = 0.75rem */
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    text-decoration: none;
+    float: none;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    width: 100%; /* 1600px / 1600px = 100% */
+
+}
+
+footer{
+    display: block;
+}
+
+.Wrap-Footer{
+    height: 1471px;
+    position: relative;
+    width: 100%;
+}
+.BlackB{
+    left: 0;
+    max-width: 1599px;
+    position: absolute;
+    top: 951px;
+    width: 1600px;
+}
+
+.Request{
+    left: 50%;
+    position: absolute;
+    top: 1113px;
+    margin-left: -17px;
+}
+.Services{
+    left: 50%;
+    position: absolute;
+    top: 1118px;
+    margin-left: -302px;
+}
+.Tweets{
+    left: 50%;
+    position: absolute;
+    top: 1115px;
+    margin-left: -599px;
+}
+
+.Information{
+    left: 0;
+    padding: 76px 0 165px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background: url(img/Wb.png) no-repeat center 0;
+    background-size: cover;
+}
+.Contacts{
+    left: 50%;
+    position: absolute;
+    top: 1115px;
+    margin-left: 311px;
+}
+
+.BackTo{
+    left: 50%;
+    position: absolute;
+    top: 1017px;
+    margin-left: 281px;
+}
+
+.Box{
+    height: 226px;
+    left: 0;
+    max-width: 1600px;
+    position: absolute;
+    top: 1245px;
+    width: 100%;
+    background: #000000;
+}
+
+.eclipse-arrow-1{
+    left: 50%;
+    padding: 4px 0;
+    position: absolute;
+    top: 1011px;
+    width: 30px;
+    border: 2px solid #e6be3b;
+    border-radius: 15px;
+    margin-left: -235px;
+}
+
+.Arrow{
+    display: block;
+    margin: 0 auto;
+}
+
+.eclipse-arrow-2{
+    left: 50%;
+    padding: 4px 0;
+    position: absolute;
+    top: 1011px;
+    width: 30px;
+    border: 2px solid #e6be3b;
+    border-radius: 15px;
+    margin-left: 6px;
+}
+
+.Arrow-1{
+    display: block;
+    margin: 0 auto;
+}
+
+.eclipse-arrow-3{
+    left: 50%;
+    padding: 4px 0;
+    position: absolute;
+    top: 1011px;
+    width: 30px;
+    border: 2px solid #e6be3b;
+    border-radius: 15px;
+    margin-left: 242px;
+}
+
+.Arrow-1{
+    display: block;
+    margin: 0 auto;
+}
+
+
+.car-icons{
+    left: 50%;
+    position: absolute;
+    top: 983px;
+    width: 231px;
+    z-index: 0;
+    margin-left: -585px;
+}
+.Car-icon{
+    display: block;
+    position: relative;
+    z-index: 126;
+}
+
+.Car-Logo{
+    display: block;
+    margin: -6px auto 0;
+    position: relative;
+    z-index: 125;
+}
+
+.Address{
+    left: 50%;
+    position: absolute;
+    top: 1194px;
+    opacity: 0.5;
+    font-size: 14px;
+    font-family: "Open Sans";
+    margin-left: 313px;
+    line-height: 30px;
+    color:#ffffff;
+
+}
+
+.Number{
+    left: 50%;
+    position: absolute;
+    top: 1260px;
+    opacity: 0.5;
+    font-size: 14px;
+    font-family: "Open Sans";
+    margin-left: 313px;
+    line-height: 30px;
+    color:#ffffff;
+
+}
+
+.Mail{
+    left: 50%;
+    position: absolute;
+    top: 1328px;
+    opacity: 0.5;
+    font-size: 14px;
+    font-family: "Open Sans";
+    margin-left: 313px;
+    line-height: 15px;
+    color:#ffffff;
+
+}
+
+.Form{
+    left: 50%;
+    min-height: 31px;
+    padding: 0 5px;
+    position: absolute;
+    top: 1204px;
+    width: 230px;
+    border: 0.5px solid rgba(255, 255, 255, 0.502);
+    margin-left: 15px;
+}
+
+.name{
+    opacity: 1;
+    line-height: 31px;
+    font-family: "Open Sans";
+}
+.Form1{
+    left: 50%;
+    min-height: 31px;
+    padding: 0 5px;
+    position: absolute;
+    top: 1245px;
+    width: 230px;
+    border: 0.5px solid rgba(255, 255, 255, 0.502);
+    margin-left: 15px;
+}
+.email{
+    opacity: 1;
+    line-height: 31px;
+    font-family: "Open Sans";
+}
+
+.Form2{
+    left: 50%;
+    min-height: 91px;
+    padding: 9px 9px 66px;
+    position: absolute;
+    top: 1286px;
+    width: 230px;
+    border: 0.5px solid rgba(255, 255, 255, 0.502);
+    margin-left: 15px;
+}
+
+.message{
+    opacity: 1;
+}
+
+.Button{
+    left: 50%;
+    margin: 0 0 0 100px;
+    position: absolute;
+    top: 1420px;
+    min-height: 35px;
+    width: 145px;
+    background: #e6be3b;
+    color: #0b0b0b;
+    font-size: 16px;
+    font-family: "Open Sans";
+    text-align: center;
+    line-height: 35px;
+}
+
+.Text{
+    left: 50%;
+    position: absolute;
+    top: 1169px;
+    font-size: 16px;
+    line-height: 20px;
+    margin-left: -580px;
+}
+
+.Lorem-Text{
+    left: 50%;
+    position: absolute;
+    top: 1196px;
+    width: 232px;
+    opacity: 0.5;
+    line-height: 24px;
+    margin-left: -580px;
+}
+
+.Hiring{
+    left: 50%;
+    position: absolute;
+    top: 1196px;
+    opacity: 2;
+    font-size: 14px;
+    font-family: "Open Sans";
+    margin-left: -288px;
+    line-height: 32px;
+    color:#e0b937;
+}
+
+.footer{
+position: relative;
+}
+
+.Block{
+    padding: 18px 0 26px;
+    position: relative;
+    background: #e0b937;  
+}
+
+.Payments{
+    margin: 0 auto;
+    padding: 0 292px;
+    position: relative;
+    width: 1600px;
+}
+
+.group{
+    zoom: 1;
+}
+
+.group:before{
+    content: " ";
+    display: table;
+}
+
+.group:after{
+    clear: both;
+    content: " ";
+    display: table;
+}
+*:before, *:after{
+    box-sizing: inherit;
+}
+
+.text-28{
+    float: left;
+    margin: 15px 0 0;
+    color: rgb(5, 1, 1);
+    font-size: 14px;
+    font-family: "Open Sans";
+    font-weight: 300;
+}
+
+.PayPal{
+    float: left;
+    margin: 0 0 0 137px;
+}
+
+.Maestro{
+    float: left;
+    margin: 0 0 0 9px;
+}
+
+.Aexpress{
+    float: left;
+    margin: 0 0 0 8px;
+}
+.Visa{
+    float: left;
+    margin: 0 0 0 9px;
+}
+
+.Master{
+    float: left;
+    margin: 0 0 0 8px;
+}
